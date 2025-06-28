@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\yurto\\Documents\\GitHub\\secim_istatistikVeGrafik_uygulamasi\\secimGrafikUygulamasi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C3AE5757-68F2-4CEF-A805-A83D736D409E}|secimGrafikUygulamasi\\secimGrafikUygulamasi.csproj|c:\\users\\yurto\\documents\\github\\secim_istatistikvegrafik_uygulamasi\\secimgrafikuygulamasi\\secimgrafikuygulamasi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C3AE5757-68F2-4CEF-A805-A83D736D409E}|secimGrafikUygulamasi\\secimGrafikUygulamasi.csproj|solutionrelative:secimgrafikuygulamasi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{C3AE5757-68F2-4CEF-A805-A83D736D409E}|secimGrafikUygulamasi\\secimGrafikUygulamasi.csproj|c:\\users\\yurto\\documents\\github\\secim_istatistikvegrafik_uygulamasi\\secimgrafikuygulamasi\\secimgrafikuygulamasi\\grafikekranics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3AE5757-68F2-4CEF-A805-A83D736D409E}|secimGrafikUygulamasi\\secimGrafikUygulamasi.csproj|solutionrelative:secimgrafikuygulamasi\\grafikekranics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3AE5757-68F2-4CEF-A805-A83D736D409E}|secimGrafikUygulamasi\\secimGrafikUygulamasi.csproj|c:\\users\\yurto\\documents\\github\\secim_istatistikvegrafik_uygulamasi\\secimgrafikuygulamasi\\secimgrafikuygulamasi\\grafikekranics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C3AE5757-68F2-4CEF-A805-A83D736D409E}|secimGrafikUygulamasi\\secimGrafikUygulamasi.csproj|solutionrelative:secimgrafikuygulamasi\\grafikekranics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3AE5757-68F2-4CEF-A805-A83D736D409E}|secimGrafikUygulamasi\\secimGrafikUygulamasi.csproj|c:\\users\\yurto\\documents\\github\\secim_istatistikvegrafik_uygulamasi\\secimgrafikuygulamasi\\secimgrafikuygulamasi\\oygirisekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3AE5757-68F2-4CEF-A805-A83D736D409E}|secimGrafikUygulamasi\\secimGrafikUygulamasi.csproj|solutionrelative:secimgrafikuygulamasi\\oygirisekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3AE5757-68F2-4CEF-A805-A83D736D409E}|secimGrafikUygulamasi\\secimGrafikUygulamasi.csproj|c:\\users\\yurto\\documents\\github\\secim_istatistikvegrafik_uygulamasi\\secimgrafikuygulamasi\\secimgrafikuygulamasi\\oygirisekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C3AE5757-68F2-4CEF-A805-A83D736D409E}|secimGrafikUygulamasi\\secimGrafikUygulamasi.csproj|solutionrelative:secimgrafikuygulamasi\\oygirisekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,11 +31,49 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\yurto\\Documents\\GitHub\\secim_istatistikVeGrafik_uygulamasi\\secimGrafikUygulamasi\\secimGrafikUygulamasi\\Form1.cs",
-              "RelativeDocumentMoniker": "secimGrafikUygulamasi\\Form1.cs",
-              "ToolTip": "C:\\Users\\yurto\\Documents\\GitHub\\secim_istatistikVeGrafik_uygulamasi\\secimGrafikUygulamasi\\secimGrafikUygulamasi\\Form1.cs [Design]",
-              "RelativeToolTip": "secimGrafikUygulamasi\\Form1.cs [Design]",
+              "Title": "GrafikEkranics.cs",
+              "DocumentMoniker": "C:\\Users\\yurto\\Documents\\GitHub\\secim_istatistikVeGrafik_uygulamasi\\secimGrafikUygulamasi\\secimGrafikUygulamasi\\GrafikEkranics.cs",
+              "RelativeDocumentMoniker": "secimGrafikUygulamasi\\GrafikEkranics.cs",
+              "ToolTip": "C:\\Users\\yurto\\Documents\\GitHub\\secim_istatistikVeGrafik_uygulamasi\\secimGrafikUygulamasi\\secimGrafikUygulamasi\\GrafikEkranics.cs",
+              "RelativeToolTip": "secimGrafikUygulamasi\\GrafikEkranics.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAADwv1cAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T12:56:28.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GrafikEkranics.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\yurto\\Documents\\GitHub\\secim_istatistikVeGrafik_uygulamasi\\secimGrafikUygulamasi\\secimGrafikUygulamasi\\GrafikEkranics.cs",
+              "RelativeDocumentMoniker": "secimGrafikUygulamasi\\GrafikEkranics.cs",
+              "ToolTip": "C:\\Users\\yurto\\Documents\\GitHub\\secim_istatistikVeGrafik_uygulamasi\\secimGrafikUygulamasi\\secimGrafikUygulamasi\\GrafikEkranics.cs [Design]",
+              "RelativeToolTip": "secimGrafikUygulamasi\\GrafikEkranics.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T12:29:17.498Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OyGirisEkrani.cs",
+              "DocumentMoniker": "C:\\Users\\yurto\\Documents\\GitHub\\secim_istatistikVeGrafik_uygulamasi\\secimGrafikUygulamasi\\secimGrafikUygulamasi\\OyGirisEkrani.cs",
+              "RelativeDocumentMoniker": "secimGrafikUygulamasi\\OyGirisEkrani.cs",
+              "ToolTip": "C:\\Users\\yurto\\Documents\\GitHub\\secim_istatistikVeGrafik_uygulamasi\\secimGrafikUygulamasi\\secimGrafikUygulamasi\\OyGirisEkrani.cs",
+              "RelativeToolTip": "secimGrafikUygulamasi\\OyGirisEkrani.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T12:41:38.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OyGirisEkrani.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\yurto\\Documents\\GitHub\\secim_istatistikVeGrafik_uygulamasi\\secimGrafikUygulamasi\\secimGrafikUygulamasi\\OyGirisEkrani.cs",
+              "RelativeDocumentMoniker": "secimGrafikUygulamasi\\OyGirisEkrani.cs",
+              "ToolTip": "C:\\Users\\yurto\\Documents\\GitHub\\secim_istatistikVeGrafik_uygulamasi\\secimGrafikUygulamasi\\secimGrafikUygulamasi\\OyGirisEkrani.cs [Design]",
+              "RelativeToolTip": "secimGrafikUygulamasi\\OyGirisEkrani.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-28T12:16:41.987Z",
               "EditorCaption": " [Design]"

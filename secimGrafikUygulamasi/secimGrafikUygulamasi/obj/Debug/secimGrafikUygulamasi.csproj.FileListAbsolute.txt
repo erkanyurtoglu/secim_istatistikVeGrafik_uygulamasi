@@ -7,3 +7,6 @@ C:\Users\yurto\Documents\GitHub\secim_istatistikVeGrafik_uygulamasi\secimGrafikU
 C:\Users\yurto\Documents\GitHub\secim_istatistikVeGrafik_uygulamasi\secimGrafikUygulamasi\secimGrafikUygulamasi\obj\Debug\secimGrafikUygulamasi.csproj.CoreCompileInputs.cache
 C:\Users\yurto\Documents\GitHub\secim_istatistikVeGrafik_uygulamasi\secimGrafikUygulamasi\secimGrafikUygulamasi\obj\Debug\secimGrafikUygulamasi.exe
 C:\Users\yurto\Documents\GitHub\secim_istatistikVeGrafik_uygulamasi\secimGrafikUygulamasi\secimGrafikUygulamasi\obj\Debug\secimGrafikUygulamasi.pdb
+C:\Users\yurto\Documents\GitHub\secim_istatistikVeGrafik_uygulamasi\secimGrafikUygulamasi\secimGrafikUygulamasi\obj\Debug\secimGrafikUygulamasi.exe.config
+C:\Users\yurto\Documents\GitHub\secim_istatistikVeGrafik_uygulamasi\secimGrafikUygulamasi\secimGrafikUygulamasi\obj\Debug\secimGrafikUygulamasi.OyGirisEkrani.resources
+C:\Users\yurto\Documents\GitHub\secim_istatistikVeGrafik_uygulamasi\secimGrafikUygulamasi\secimGrafikUygulamasi\obj\Debug\secimGrafikUygulamasi.GrafikEkranics.resources
